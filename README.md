@@ -1,4 +1,4 @@
-<h1>GPT_Bot</h1>
+<h1>Updated_GPTBot-4.0</h1>
 
 <h2>Installation:</h2>
 <br>Open Discord Developer Portal, create one application and add one bot. </br>

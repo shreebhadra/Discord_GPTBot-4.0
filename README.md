@@ -6,8 +6,8 @@
 <br>BOT_TOKEN="BOT_TOKEN"</br>
 <br>OPENAI_API_KEY="OPENAI_API_KEY"</br>
   
-<br>After that add this bot inside your server where you want to use it.</br>
--Run server using npm run dev in the terminal.
+<br>After that cooding, add this bot inside your server where you want to use it.</br>
+-Run server using node "file_name" in the terminal.
 
 
 <br>Invocation Command:</br>
